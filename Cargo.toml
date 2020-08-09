@@ -1,0 +1,4 @@
+[package]
+name = "my_tcp_echo_server"
+version = "0.1.0"
+authors = ["Rivers Yang <rivers.yang@icloud.com>"]
