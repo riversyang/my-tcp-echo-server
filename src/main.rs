@@ -1,3 +1,7 @@
+mod shape;
+mod traffic_light;
+mod utils;
+
 use std::io::{Read, Write};
 use std::net::{Shutdown, TcpListener, TcpStream};
 use std::str;
